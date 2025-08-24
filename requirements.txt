@@ -1,0 +1,23 @@
+# FastAPI & Web Server
+fastapi
+uvicorn[standard]
+
+# Pydantic
+pydantic
+pydantic-core
+
+# LangChain ecosystem
+langchain
+langchain-core
+langchain-experimental
+langchain-openai
+
+# OpenAI SDK (optional, but recommended with AzureChatOpenAI)
+openai
+
+# Excel & Data handling
+pandas
+openpyxl  # Required to read .xlsx files
+
+# Logging
+loguru  # Optional: if you use advanced logging
